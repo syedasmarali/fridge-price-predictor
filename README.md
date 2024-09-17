@@ -45,7 +45,7 @@ This project focuses on predicting the price of refrigerators using regression a
 
 - Install the required packages:
   ```bash
-  Source .venv/bin/activate
+  pip install -r requirements.txt
 
 - Run the streamlit app:
   ```bash
