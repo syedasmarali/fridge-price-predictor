@@ -1,0 +1,1 @@
+# fridge-price-predictor
