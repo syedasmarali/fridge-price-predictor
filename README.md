@@ -25,4 +25,30 @@ This project focuses on predicting the price of refrigerators using regression a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/syedasmarali/fridge-price-predictor.git
+2. Navigate into the project directory:
+  ```bash
+  cd repo-name
+3. Create a virtual environment (optional but recommended):
+  ```bash
+  python -m venv .venv
+4. Activate the virtual environment:
+  - On Windows:
+    ```bash
+    python -m venv .venv
+  - On macOS/Linux:
+    ```bash
+    Source .venv/bin/activate
+5. Install the required packages:
+  ```bash
+  Source .venv/bin/activate
+6. Run the streamlit app:
+  ```bash
+  streamlit run src/app.py
+
+
+## Techhnologies Used
+
+- Python: For data analysis and regression model.
+- Streamlit: For building the web app and creating the dashboard.
+- Pandas, NumPy, SKLearn: For data manipulation and analysis.
