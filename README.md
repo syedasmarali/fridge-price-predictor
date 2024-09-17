@@ -26,17 +26,16 @@ This project focuses on predicting the price of refrigerators using regression a
 - Clone the repository:
    ```bash
    git clone https://github.com/syedasmarali/fridge-price-predictor.git
-   ```bash
    
 - Navigate into the project directory:
   ```bash
   cd fridge-price-predictor
 
-3. Create a virtual environment (optional but recommended):
+- Create a virtual environment (optional but recommended):
   ```bash
   python -m venv .venv
 
-4. Activate the virtual environment:
+- Activate the virtual environment:
   - On Windows:
     ```bash
     python -m venv .venv
@@ -44,11 +43,11 @@ This project focuses on predicting the price of refrigerators using regression a
     ```bash
     Source .venv/bin/activate
 
-5. Install the required packages:
+- Install the required packages:
   ```bash
   Source .venv/bin/activate
 
-6. Run the streamlit app:
+- Run the streamlit app:
   ```bash
   streamlit run src/app.py
 
