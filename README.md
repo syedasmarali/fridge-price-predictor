@@ -26,6 +26,7 @@ This project focuses on predicting the price of refrigerators using regression a
 1. Clone the repository:
    ```bash
    git clone https://github.com/syedasmarali/fridge-price-predictor.git
+   ```bash
    
 2. Navigate into the project directory:
   ```bash
