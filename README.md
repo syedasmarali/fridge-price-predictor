@@ -29,7 +29,7 @@ This project focuses on predicting the price of refrigerators using regression a
    
 2. Navigate into the project directory:
   ```bash
-  cd repo-name
+  cd fridge-price-predictor
 
 3. Create a virtual environment (optional but recommended):
   ```bash
