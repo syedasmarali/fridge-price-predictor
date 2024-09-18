@@ -10,7 +10,7 @@ def preprocess_data(df):
     # Loading the data
     df = load_data()
 
-    # Dropping the duplicates
+    # Dropping the empty and none values
     df = df.dropna()
 
     # Dropping negative values from capacity
